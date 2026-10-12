@@ -21,11 +21,9 @@ for num in numbers:
     if num % 2 == 0:
         if max_number is None or num > max_number:
             max_number = num
-
-
-if num < 0:
-    sum_negative += 1
-    count += 1
+    if num < 0:
+        sum_negative += 1
+        count += 1
 
 
 print(f"Сума додатних чисел: {sum_number}")
