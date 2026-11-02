@@ -10,11 +10,14 @@ This repository contains my Python practice projects and exercises as I improve 
 - Basic algorithms
 - Lists and nested lists
 - Functions and return values
-- Dictionaries
+- Dictionaries and nested dictionaries
 - List filtering and searching
 - Average calculations
 - Removing duplicates
 - Working with multiple lists
+- File handling (`TXT` files)
+- JSON data handling (`json.load`, `json.dump`)
+- Working with structured data
 
 ## My Exercises
 
@@ -44,11 +47,25 @@ This repository contains my Python practice projects and exercises as I improve 
 - Find the Best Student
 - Filter Students by Average Grade
 
+### File Handling and JSON
+- TXT File Practice
+- Read and Write Files
+- JSON Data Handling
+- Inventory Management System (In Progress)
+  - Load products from JSON
+  - Display product information
+  - Calculate total inventory value
+  - Add new products
+  - Automatically generate product IDs
+  - Save changes to JSON
+
 ## Goals
 
 - Strengthen my Python fundamentals
 - Improve problem-solving skills
 - Practice writing reusable functions
+- Learn to work with files and JSON
+- Build practical Python projects
 - Build a portfolio of programming exercises
 - Prepare for more advanced Python projects
 
